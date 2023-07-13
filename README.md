@@ -38,3 +38,5 @@ This plugin is licensed under the [GNU License](LICENSE).
 - [ ] Make the task a separate file
 - [ ] Clean up code
 - [ ] fix day counter
+- [ ] Make it so target count is configurable (probably, js so instead of 1 you can set it to like 2 or whatever)
+      
