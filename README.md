@@ -25,8 +25,16 @@ There are no commands provided by this plugin.
 ## Configuration
 There are no configuration options for this plugin.
 
+## Note
+This is just a silly plugin, i dont intend to fully maintain this as if now. maybe some slight updates here in there
+
 ## Contributing
 Contributions are welcome! If you have any bug reports, feature requests, or improvements, please create an issue or submit a pull request on the [GitHub repository](https://github.com/iLVOEWOCK/OnePlayerSleep).
 
 ## License
 This plugin is licensed under the [GNU License](LICENSE).
+
+## To Do
+- [ ] Make the task a separate file
+- [ ] Clean up code
+- [ ] fix day counter
