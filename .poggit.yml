@@ -5,4 +5,5 @@ branches:
 projects:
   OnePlayerSleep:
     path: ""
+    icon: "icon.png"
 ...
