@@ -1,5 +1,7 @@
 # OnePlayerSleep
-
+[![](https://poggit.pmmp.io/shield.state/OnePlayerSleep)](https://poggit.pmmp.io/p/OnePlayerSleep)
+<a href="https://poggit.pmmp.io/p/OnePlayerSleep"><img src="https://poggit.pmmp.io/shield.state/OnePlayerSleep"></a> [![](https://poggit.pmmp.io/shield.api/OnePlayerSleep)](https://poggit.pmmp.io/p/OnePlayerSleep)
+<a href="https://poggit.pmmp.io/p/OnePlayerSleep"><img src="https://poggit.pmmp.io/shield.api/OnePlayerSleep"></a>
 OnePlayerSleep is a plugin for PocketMine-MP that allows a single player to skip the night and set the time to day by sleeping in a bed.
 
 ## Features
