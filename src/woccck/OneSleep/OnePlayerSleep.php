@@ -8,7 +8,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerBedEnterEvent;
 use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\plugin\PluginBase;
-use pocketmine\scheduler\ClosureTask;
+use woccck\OneSleep\tasks\SleepTask;
 
 class OnePlayerSleep extends PluginBase implements Listener {
 
