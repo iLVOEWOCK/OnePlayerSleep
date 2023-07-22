@@ -12,7 +12,7 @@ use woccck\OneSleep\tasks\SleepTask;
 
 class OnePlayerSleep extends PluginBase implements Listener {
 
-    private array $sleepTasks = [];
+    public array $sleepTasks = [];
 
     public function onEnable(): void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
