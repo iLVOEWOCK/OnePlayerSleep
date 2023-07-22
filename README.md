@@ -35,8 +35,7 @@ Contributions are welcome! If you have any bug reports, feature requests, or imp
 This plugin is licensed under the [GNU License](LICENSE).
 
 ## To Do
-- [ ] Make the task a separate file
-- [ ] Clean up code
+- [x] Make the task a separate file
+- [x] Clean up code
 - [ ] fix day counter
-- [ ] Make it so target count is configurable (probably, js so instead of 1 you can set it to like 2 or whatever)
       
