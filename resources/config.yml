@@ -1,0 +1,12 @@
+# Configure the messages.
+# Created by: woccck
+# Discord: woccck
+# Use '&' for color codes. Tags:
+# {}, {display_name}
+messages:
+  morning: "§6Good morning! The sun rises on a new day"
+  player-sleeping: "&r&b{display_name} is sleeping...§r"
+  player-slept: "&r&bSleeping...&r"
+  player-skipped-night: "&r&7{display_name} has skipped the night. Good morning!"
+  player-left-before-morning: "&r&cYou have left your bed before morning."
+  player-left-bed: "&r&c{display_name} has left their bed before morning.&r"
